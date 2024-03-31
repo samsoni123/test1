@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/firstapp-react/static/css/main.10280eab.css",
+    "main.js": "/firstapp-react/static/js/main.961daab2.js",
+    "static/js/453.c525d7c0.chunk.js": "/firstapp-react/static/js/453.c525d7c0.chunk.js",
+    "static/media/game_over.wav": "/firstapp-react/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/firstapp-react/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/firstapp-react/index.html",
+    "main.10280eab.css.map": "/firstapp-react/static/css/main.10280eab.css.map",
+    "main.961daab2.js.map": "/firstapp-react/static/js/main.961daab2.js.map",
+    "453.c525d7c0.chunk.js.map": "/firstapp-react/static/js/453.c525d7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10280eab.css",
+    "static/js/main.961daab2.js"
+  ]
+}
